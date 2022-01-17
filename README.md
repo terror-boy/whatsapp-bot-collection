@@ -1,7 +1,7 @@
 ## THERE ARE NO FILES HERE. JUST READ THIS README AND YOU WILL FIND YOUR ANSWERS
 
 <div align="center">
-  <img src="https://i.ibb.co/NxFN3q1/logo.jpg" width="200" height="200">
+  <img src="https://yt3.ggpht.com/8T2e-Oq9f8RxPujoMnBQBuTrO21Jd2GeZUlcWE_pOj6GAOr95qABksoxoCbxQcLeV8Rgp7aHBQ=s176-c-k-c0x00ffffff-no-rj" width="300" height="300">
   <h1>Albin Thomas</h1>
 </div>
 
@@ -52,12 +52,33 @@ ________________________________________________________________________________
 
 ### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
+[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alien-omega/lyfe00011B1)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=lyfe00011&repo=whatsapp-bot)](https://github.com/whatsapp-bot)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyfe00011&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+
+
+_______________________________________________________________________________________________________________
+
+
+
+
+  
+## Riaz-sempai by [nexusNw](https://github.com/nexusNw)
+<div align="left">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/88531428?v=4" alt=""> </a></span>
+</div>
+
+### Simple Method
+
+[![Run on Repl.it](https://repl.it/badge/github/nexusNw/Riaz-sempai)](https://replit.com/@nexusNw/Sempai?v=1)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nexusNw/Riaz-sempai)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=nexusNw&repo=Riaz-sempai)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexusNw&show_icons=true&theme=nightowl" alt="Alien-alfa" />
 
 
 _______________________________________________________________________________________________________________
